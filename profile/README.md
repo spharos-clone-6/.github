@@ -21,8 +21,12 @@
 Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니다.<br/>
 스타벅스 모바일 앱의 온라인 스토어를 구현하였습니다.<br/>
 
-[💙 배포 서버 💙](https://www.grapefruit-honey-black-tea.shop) <br/>
-[💚 API Swagger 서버 💚](https://backend.grapefruit-honey-black-tea.shop/swagger-ui/index.html)
+<br>
+
+[💙 배포 서버 💙](https://www.grapefruit-honey-black-tea.shop)<br/>
+[💚 API Swagger 서버 💚](https://backend.grapefruit-honey-black-tea.shop/swagger-ui/index.html)<br/>
+<br>
+F12를 누르고 개발자 모드, iphone XR로 확인해주세요.
 
 <br>
 <br>
@@ -33,6 +37,11 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
     <td>
         <a href="https://github.com/qwer15948">
             <img src="https://avatars.githubusercontent.com/u/48706964?v=4" width="100px" />
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/oasis0981">
+            <img src="https://avatars.githubusercontent.com/u/110089522?v=4" width="100px" />
         </a>
     </td>
     <td>
@@ -51,11 +60,6 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
         </a>
     </td>
     <td>
-        <a href="https://github.com/oasis0981">
-            <img src="https://avatars.githubusercontent.com/u/110089522?v=4" width="100px" />
-        </a>
-    </td>
-    <td>
         <a href="https://github.com/scsok13">
             <img src="https://avatars.githubusercontent.com/u/72970253?v=4" width="100px" />
         </a>
@@ -71,20 +75,18 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
   </tr>
   <tr>
     <td><b>팀장 FE</b></td>
-    <td><b>팀원 BE</b></td>
-    <td><b>팀원 BE</b></td>
-    <td><b>팀원 BE</b></td>
     <td><b>팀원 FE</b></td>
+    <td><b>팀원 BE</b></td>
+    <td><b>팀원 BE</b></td>
+    <td><b>팀원 BE</b></td>
     <td><b>팀원 BE</b></td>
   </tr>
   <tr>
-    <td><b>퍼블리시<br/>상품 조회<br/>(검색, 필터링)<br/>Auth(FE)<br/>공유하기<br/>(카카오 API)<br/>사이드 메뉴바</b>
-</td>
+    <td><b>퍼블리시<br/>상품 조회<br/>(검색, 필터링)<br/>Auth(FE)<br/>공유하기<br/>(카카오 API)<br/>사이드 메뉴바</b></td>
     <td><b>퍼블리시<br/>장바구니<br/>결제하기<br/>(카카오 API)<br/>배송지</b></td>
     <td><b>SpringSecurity<br/>Auth<br/>이메일<br/>배송지<br/>스타벅스 카드<br/>결제 구현<br/>(카카오API)</b></td>
     <td><b>SpringSecurity<br/>Auth(FE)<br/>인프라 구축<br/>장바구니</b></td>
     <td><b>상품<br/>카테고리<br/>조회<br/>(검색, 필터링)<br/>DB 이중화(읽기전용 DB)<br/>구현 및 배포</b></td>
-    
     <td><b>쿠폰<br/>장바구니<br/>결제 구현<br/>(카카오API)</b></td>
   </tr>
 </table>
