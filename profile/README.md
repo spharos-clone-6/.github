@@ -63,10 +63,10 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
   </tr>
   <tr>
     <td><b>송지혜</b></td>
+    <td><b>송윤서</b></td>
     <td><b>김태근</b></td>
     <td><b>남광후</b></td>
     <td><b>박준석</b></td>
-    <td><b>송윤서</b></td>
     <td><b>신현채</b></td>
   </tr>
   <tr>
@@ -80,10 +80,11 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
   <tr>
     <td><b>퍼블리시<br/>상품 조회<br/>(검색, 필터링)<br/>Auth(FE)<br/>공유하기<br/>(카카오 API)<br/>사이드 메뉴바</b>
 </td>
+    <td><b>퍼블리시<br/>장바구니<br/>결제하기<br/>(카카오 API)<br/>배송지</b></td>
     <td><b>SpringSecurity<br/>Auth<br/>이메일<br/>배송지<br/>스타벅스 카드<br/>결제 구현<br/>(카카오API)</b></td>
     <td><b>SpringSecurity<br/>Auth(FE)<br/>인프라 구축<br/>장바구니</b></td>
     <td><b>상품<br/>카테고리<br/>조회<br/>(검색, 필터링)<br/>DB 이중화(읽기전용 DB)<br/>구현 및 배포</b></td>
-    <td><b>퍼블리시<br/>장바구니<br/>결제하기<br/>(카카오 API)<br/>배송지</b></td>
+    
     <td><b>쿠폰<br/>장바구니<br/>결제 구현<br/>(카카오API)</b></td>
   </tr>
 </table>
