@@ -25,11 +25,10 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
 
 [💙 배포 서버 💙](https://www.grapefruit-honey-black-tea.shop)<br/>
 [💚 API Swagger 서버 💚](https://backend.grapefruit-honey-black-tea.shop/swagger-ui/index.html)<br/>
+F12를 누르고 개발자 모드, iphone XR로 확인해주세요.<br/>
 
 <br>
-F12를 누르고 개발자 모드, iphone XR로 확인해주세요.
 
-<br>
 [백엔드 REPO](https://github.com/spharos-clone-6/backend)<br/>
 [프론트엔드 REPO](https://github.com/spharos-clone-6/frontend-next)<br/>
 
