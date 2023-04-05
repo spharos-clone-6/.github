@@ -16,8 +16,9 @@
 <br>
 
 ## 👀 프로젝트 소개
-
+<div align="center"> 
 <img src="https://user-images.githubusercontent.com/97498405/229552681-438fc417-a914-4261-9b5e-22aa8c134bc1.png" width=25% height=25%>
+<br><br>
 Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니다.<br/>
 스타벅스 모바일 앱의 온라인 스토어를 구현하였습니다.<br/>
 
@@ -25,15 +26,12 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
 
 [💙 배포 서버 💙](https://www.grapefruit-honey-black-tea.shop)<br/>
 [💚 API Swagger 서버 💚](https://backend.grapefruit-honey-black-tea.shop/swagger-ui/index.html)<br/>
-F12를 누르고 개발자 모드, iphone XR로 확인해주세요.<br/>
-
-<br>
 
 [백엔드 REPO](https://github.com/spharos-clone-6/backend)<br/>
-[프론트엔드 REPO](https://github.com/spharos-clone-6/frontend-next)<br/>
+[프론트엔드 REPO](https://github.com/spharos-clone-6/frontend-next)<br/><br/>
 
-
-
+###### F12를 누르고 개발자 모드, iphone XR로 확인해주세요.
+</div>
 <br>
 <br>
 
@@ -103,16 +101,16 @@ F12를 누르고 개발자 모드, iphone XR로 확인해주세요.<br/>
 ## 🔧 기술 스택
 ### FE
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" width=16% height=16% > <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Spring TypeScript&logoColor=white" width=13% height=13% > <img src="https://img.shields.io/badge/Next.Js-000000?style=flat&logo=Next.js&logoColor=white" width=13% height=13% > <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" width=13% height=13% > <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" width=12% height=12% > <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" width=12% height=12% >
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=Spring TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/Next.Js-000000?style=flat&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 
 ### BE
- <img src="https://img.shields.io/badge/Java 11-007396?style=flat&logo=java&logoColor=white" width=10% height=10%> <img src="https://img.shields.io/badge/Gradle 7.6-02303A.svg?style=flat&logo=Gradle&logoColor=white" width=16% height=16%> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=Spring Security&logoColor=white" width=20% height=20%> <img src="https://img.shields.io/badge/Spring Boot 2.7.8-6DB33F.svg?style=flat&logo=Spring Boot&logoColor=white" width=22% height=22%> <img src="https://img.shields.io/badge/MySQL 8.0-4479A1.svg?style=flat&logo=MySQL&logoColor=white" width=15% height=15%> <img src="https://img.shields.io/badge/JPA-FF9E0F.svg?style=flat&logo=JPA&logoColor=white" width=5% height=5%> <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=Swagger&logoColor=white" width=14% height=14%> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" width=13% height=13%> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" width=13% height=13%> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white" width=13% height=13%>
+ <img src="https://img.shields.io/badge/Java 11-007396?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Gradle 7.6-02303A.svg?style=flat&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=Spring Security&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot 2.7.8-6DB33F.svg?style=flat&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL 8.0-4479A1.svg?style=flat&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/JPA-FF9E0F.svg?style=flat&logo=JPA&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D.svg?style=flat&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=Pandas&logoColor=white">
  
  ### Deploy
- <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white" width=18% height=18%>
+ <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=Google Cloud&logoColor=white">
  
 ### Tool
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" width=9% height=9%> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" width=13% height=13%> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"  width=18% height=18%> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"  width=25% height=25%> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" width=12% height=12%> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white" width=10% height=10%>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=Miro&logoColor=white">
 
 <br>
 <br>
