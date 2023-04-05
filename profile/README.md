@@ -31,6 +31,14 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
 [프론트엔드 REPO](https://github.com/spharos-clone-6/frontend-next)<br/><br/>
 
 ###### F12를 누르고 개발자 모드, iphone XR로 확인해주세요.
+
+<br>
+<br>
+
+&nbsp;<img src="https://user-images.githubusercontent.com/97498405/230101791-913c0801-a2ba-45eb-ac3c-25811e4dac3e.gif" width=5% height=5%>
+
+배포중
+
 </div>
 <br>
 <br>
