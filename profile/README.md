@@ -137,17 +137,15 @@ Shinsegae Inc, Spharos GHBT팀의 스타벅스 클론 코딩 프로젝트입니�
 
 ## 🚀 기능 시연 영상
 
-
-
-| 🖤 회원 가입 🖤 | 🖤 공유 하기 🖤 | 🖤 결제 하기 🖤 |
-| :-------------: | :-------------: | :-------------: |
-| ![회원가입](https://user-images.githubusercontent.com/72970253/230041204-4ee92392-4910-4c75-a84d-1a3a3880051c.gif)|![공유하기](https://user-images.githubusercontent.com/72970253/230050296-1ae7d059-83a2-40a1-a91a-afdb6eb862e6.gif) |![결제](https://user-images.githubusercontent.com/72970253/230050335-35f3c772-f2d0-42e6-855d-647972251018.gif) |
+| 🖤 회원 가입 🖤 | | 🖤 무한스크롤 🖤 | | 🖤 검색  🖤 |
+| :-------------: |:---:|:-------------: |:---:|:-------------: |
+| ![회원가입 및 로그인 ](https://user-images.githubusercontent.com/72970253/230253368-4575b748-3f60-4eca-a7ec-b34ae73c82fc.gif)| |![스크롤](https://user-images.githubusercontent.com/72970253/230255715-79826a08-ac50-474d-8a8a-8985565178e6.gif) | |![검색](https://user-images.githubusercontent.com/72970253/230254700-a3cfda86-5ba6-449c-9a59-8a2ab65d0386.gif) |
 
 <br>
 
-| 🖤 상품 검색, 필터링 🖤 |  
-| :-------------: |
- | ![검색](https://user-images.githubusercontent.com/72970253/230050239-89757141-8e1a-46d6-9b75-2711b0db0944.gif)  |
+| 🖤 공유하기 🖤 |  | 🖤 장바구니 🖤 | | 🖤 결제 하기 🖤 |  
+| :-------------: |:---:|:-------------: |:---:|:-------------: |
+ | ![공유](https://user-images.githubusercontent.com/72970253/230258874-086cc801-29bd-4b43-b9e1-1350b6389297.gif) | |![장바구니](https://user-images.githubusercontent.com/72970253/230256289-f9ce8aee-84ab-4adb-ae4c-5ab66045a820.gif) | |![결제](https://user-images.githubusercontent.com/72970253/230259171-08662af9-8d87-4ea3-929a-caeb0f79478c.gif) |
 
 
 <br>
